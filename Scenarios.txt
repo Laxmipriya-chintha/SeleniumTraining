@@ -1,6 +1,0 @@
-Verify "View More Offers" Button in Home page navigating to offers page
-Verify the Hotels displaying as per the given filter condition(Rating,price,Property types & Amenities) in Hotels page.
-Verify the "Modify" filter navigating to appropriate page in Tours page.
-Verify the booking process for guest and PHPTravel member(logged in member)
-Verify the search functionality should load search page with all user-selected search parameters for cars.
-Verify the proper error message is displayed when the user submits the page without selecting any filter criteria in Home page(visa tab).
